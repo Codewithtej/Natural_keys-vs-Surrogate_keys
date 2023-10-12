@@ -29,6 +29,6 @@ A brief coding demonstration following the use case teaches the audience how to 
 The choice between surrogate keys and natural keys depends on the specific requirements of your database. Surrogate keys are a good choice when data integrity and performance are critical. Natural keys are suitable when meaningful, human-readable data representation is a priority, but they may require additional effort to maintain data integrity. In some cases, a combination of both approaches may be used, with a surrogate key for internal management and a natural key for reference and readability.
 
 ## Resources
-Presentation slides are linked here
-MSSQLTips’ Surrogate Key vs Natural Key Differences and When to Use in SQL Server was especially helpful in preparation for this project
+Presentation slides are uploaded to the reprository
+MSSQLTips’ Surrogate Key vs Natural Key Differences and When to Use in SQL Server(https://www.mssqltips.com/sqlservertip/5431/surrogate-key-vs-natural-key-differences-and-when-to-use-in-sql-server/) was especially helpful in preparation for this project
 
